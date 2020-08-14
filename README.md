@@ -3,7 +3,7 @@ The classic Kaggle Titanic ML competition.
 The goal: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.  
 In this competition, two similar datasets are used that include passenger information like name, age, gender, socio-economic class, etc.   
 One dataset is titled `train.csv` and the other is titled `test.csv`.   
-'Train.csv' contains the details of a subset of the passengers on board (891) and reveals whether they survived or not.    
+`train.csv` contains the details of a subset of the passengers on board (891) and reveals whether they survived or not.    
 `test.csv` dataset contains similar information but does not disclose if the passengers survived or not.   
 The goal is to predict whether the other 418 passengers on board (found in test.csv) survived.   
   
