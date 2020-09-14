@@ -13,3 +13,5 @@ PassengerId (sorted in any order)
 Survived (contains your binary predictions: 1 for survived, 0 for deceased)   
    
 The score is the percentage of passengers correctly predicted, ie., accuracy.    
+
+(not completed yet)
